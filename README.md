@@ -6,8 +6,11 @@ note: *You can find all the examples in the folder `examples`*
 
 
 # Installation
-For now this project is not on [pypi](https://pypi.org) ( pip ), so you have to install it manually by downloading the repo
-
+You can find the project on [PyPi](https://pypi.org/project/JUC/).
+To install it execute this command in the cmd
+```yaml
+pip install JUC
+```
 
 # Preview
 > ### File Encrypter
