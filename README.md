@@ -1,6 +1,8 @@
 # JUC
 JUC is a simple Unicode based text crypter
 
+### **NOTE: This project was *not* created to be used in other projects, but only to be able to read the code and understand its operation, it is strongly discouraged to use JUC in important security systems**
+
 
 note: *You can find all the examples in the folder `examples`*
 
