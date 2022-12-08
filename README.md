@@ -1,3 +1,5 @@
+### Update: I did this program when I was still not very experienced on computer security ( even now I’m not an expert ) , it was created only as a leisure and I do not recommend using it for projects where you need serious security system.
+
 # JUC
 JUC is a simple Unicode based text crypter
 
